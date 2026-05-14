@@ -1,2 +1,2 @@
 # Primeiro-Portfolio
-Meu primeiro portfólio profissional desenvolvido com React e Tailwind
+Projeto de portfólio focado em responsividade e experiência do usuário.
